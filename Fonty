@@ -8,6 +8,10 @@ font-family: 'Merriweather', serif;
 
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+  
+</style>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Roboto&display=swap');
 </style>
 font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
